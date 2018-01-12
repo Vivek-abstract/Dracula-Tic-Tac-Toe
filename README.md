@@ -7,5 +7,5 @@ A dark themed Tic Tac Toe game vs computer. Built in Kotlin using Android Studio
 3. Install the apk
 
 ## Screenshots:
-<img src="screenshots/tic1.png" width="400">
 <img src="screenshots/tic2.png" width="400">
+<img src="screenshots/tic1.png" width="400">
